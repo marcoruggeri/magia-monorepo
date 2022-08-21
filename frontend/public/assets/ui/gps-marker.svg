@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>843BE9AE-CDA9-4575-A396-2DAB214D722F</title>
+    <defs>
+        <linearGradient x1="50%" y1="-7.06032455e-14%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEDD60" offset="0%"></stop>
+            <stop stop-color="#935A0F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Ready-Flow--(-Janis-)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14" transform="translate(-487.000000, -561.000000)">
+            <g id="Group-17" transform="translate(416.000000, 345.000000)">
+                <g id="Group-15" transform="translate(72.000000, 217.000000)">
+                    <rect id="Rectangle-Copy" stroke="url(#linearGradient-1)" stroke-width="2" fill-opacity="0.802474869" fill="#000000" x="0" y="0" width="50" height="50" rx="25"></rect>
+                    <g id="maps-and-flags" transform="translate(16.000000, 13.000000)" fill="#DD4747" fill-rule="nonzero">
+                        <path d="M8.69190122,0 C3.899161,0 0,3.899161 0,8.69185434 C0,14.6397366 7.7784001,23.3715754 8.10957238,23.7403883 C8.42063526,24.0868419 8.96372967,24.0862325 9.27423005,23.7403883 C9.60540233,23.3715754 17.3838024,14.6397366 17.3838024,8.69185434 C17.3838024,3.899161 13.4845946,0 8.69190122,0 Z M8.69190122,13.064969 C6.28055453,13.064969 4.31883339,11.103201 4.31883339,8.69185434 C4.31883339,6.28050765 6.2806014,4.31878651 8.69190122,4.31878651 C11.103201,4.31878651 13.0649222,6.28055453 13.0649222,8.69190122 C13.0649222,11.1032479 11.103201,13.064969 8.69190122,13.064969 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

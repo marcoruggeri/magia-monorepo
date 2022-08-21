@@ -1,0 +1,18 @@
+{
+  "000" : "000-none.png",
+  "001" : "001-WHITE-HEALING.png",
+  "002" : "002-BLACK-CURSE.png",
+  "003" : "003-FIRE-FIREBALL.png",
+  "004" : "004-EARTH-GIANTGROWTH.png",
+  "005" : "005-WATER-ENERGYBLAST.png",
+  "006" : "006-SUMMON-WHITE.png",
+  "007" : "007-SUMMON-BLACK.png",
+  "008" : "008-SUMMON-FIRE.png",
+  "009" : "009-SUMMON-WATER.png",
+  "010" : "010-SUMMON-EARTH.png",
+  "011" : "011-CONVERT.png",
+  "012" : "012-PLAGUE.png",
+  "013" : "013-PYROBLAST.png",
+  "014" : "014-TELEPORT.png",
+"015" : "015-TRANSMUTE.png"
+}

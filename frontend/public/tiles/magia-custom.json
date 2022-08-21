@@ -1,0 +1,130 @@
+{ "compressionlevel":-1,
+ "height":20,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 9, 9, 9, 9, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 4, 7, 9, 9, 9, 9, 9, 9, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 4, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 9, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 1, 1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 4, 7, 7, 7, 7, 7, 7, 1, 7, 7, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 1, 2, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 2, 7, 2, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 9, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 2, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+         "height":20,
+         "id":1,
+         "name":"Tile Layer 1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":30,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"staggered",
+ "renderorder":"right-down",
+ "staggeraxis":"y",
+ "staggerindex":"odd",
+ "tiledversion":"1.8.5",
+ "tileheight":64,
+ "tilesets":[
+        {
+         "columns":0,
+         "firstgid":1,
+         "grid":
+            {
+             "height":1,
+             "orientation":"orthogonal",
+             "width":1
+            },
+         "margin":0,
+         "name":"magiatiles",
+         "spacing":0,
+         "tilecount":10,
+         "tileheight":512,
+         "tiles":[
+                {
+                 "id":0,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_FORESt.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":1,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_FOREST_STRUCTURE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":2,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_GOLD_MINE_STRUCTURE.png",
+                 "imageheight":512,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":3,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_GOLD_STRUCTURE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":4,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_GOLD_TILE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":5,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_GRASS.png",
+                 "imageheight":512,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":6,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_GRASS_TILE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":7,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_MANA_SOURCE.png",
+                 "imageheight":512,
+                 "imagewidth":512
+                }, 
+                {
+                 "id":8,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_MANA_STRUCTURE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }, 
+                {
+                 "id":9,
+                 "image":"..\/..\/..\/downloads\/magiaassets\/TILE_SET_MANA_TILE.png",
+                 "imageheight":128,
+                 "imagewidth":128
+                }],
+         "tilewidth":512
+        }, 
+        {
+         "firstgid":11,
+         "source":"..\/..\/..\/pCloudDrive\/work\/magia\/magiatiles.tsx"
+        }],
+ "tilewidth":128,
+ "type":"map",
+ "version":"1.8",
+ "width":30
+}

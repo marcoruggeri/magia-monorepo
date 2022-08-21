@@ -1,0 +1,94 @@
+export const CoinGold = () => (
+  <img
+    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAAqCAYAAADFw8lbAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGrSURBVHgB7ZmxSgNBEIZnLzZREPIEHqSwErW/O7XJC/gAIaWN4BMY30ArS/E1bJQkvRdTHwStrIxRRLnk1lm84m5vg0OcZmU/WAI/P7k/YZadnRNAJAiCrhDiFBiRUp4NBoMuxeuBJbig3FgTdMUkRlF0joW+XdQOA8+Ptnh/V2+UtYUI9zQ57vf7J7rXGDQPuV/U1lcBdpsCOIkT8PHD155t9Loa5caezaROHF1UG0fVZJGdzQZAvQFL8/UMkH2Wv7PpQadVtk0/VM1WM4kwDCvVe3FUw42j/dn1jZ+1LNMhwOz1V1ucSDi+nFV0V6Pc2H0ykcmwlubvNG+K3lTTavki8MegGPLtgeadQDXoWr4IuBrlxgXlxgXlxgXl5h8eoaqfTCdlTc7M3heDtsBKhR5UNb1a47uQFNhxNcqNPZtJjf50sTeS7TiZ+0VNXcTIAwhi63b/KCF+ykoaXu7GmOla9xqfjBe+W9AmJZ2WujESu1wiVzdzXOWgGPIOZ6YHutfVKDd2n0xYJ0NdUxOMOMl8YCTfOOOi5nne0OQlzxHdywYiLig31gT9BqGSiIrDNtX5AAAAAElFTkSuQmCC "
+    alt=""
+  />
+)
+//   <svg
+//     width="42"
+//     height="42"
+//     viewBox="0 0 42 42"
+//     fill="none"
+//     xmlns="http://www.w3.org/2000/svg"
+//   >
+//     <path d="M15.7495 0H10.4989V5.25052H15.7495V0Z" fill="#3D3D3D" />
+//     <path d="M21 0H15.7495V5.25052H21V0Z" fill="#3D3D3D" />
+//     <path d="M26.2505 0H21V5.25052H26.2505V0Z" fill="#3D3D3D" />
+//     <path d="M31.4989 0H26.2484V5.25052H31.4989V0Z" fill="#3D3D3D" />
+//     <path d="M10.501 5.25052H5.25052V10.501H10.501V5.25052Z" fill="#3D3D3D" />
+//     <path d="M15.7495 5.25052H10.4989V10.501H15.7495V5.25052Z" fill="#FFC942" />
+//     <path d="M21 5.25052H15.7495V10.501H21V5.25052Z" fill="#FFC942" />
+//     <path d="M26.2505 5.25052H21V10.501H26.2505V5.25052Z" fill="#FFC942" />
+//     <path d="M31.4989 5.25052H26.2484V10.501H31.4989V5.25052Z" fill="#FFC942" />
+//     <path d="M36.7495 5.25052H31.4989V10.501H36.7495V5.25052Z" fill="#3D3D3D" />
+//     <path d="M5.25052 10.4989H0V15.7495H5.25052V10.4989Z" fill="#3D3D3D" />
+//     <path d="M10.501 10.4989H5.25052V15.7495H10.501V10.4989Z" fill="#FFC942" />
+//     <path
+//       d="M15.7495 10.4989H10.4989V15.7495H15.7495V10.4989Z"
+//       fill="#FFDB80"
+//     />
+//     <path d="M21 10.4989H15.7495V15.7495H21V10.4989Z" fill="#FFDB80" />
+//     <path d="M26.2505 10.4989H21V15.7495H26.2505V10.4989Z" fill="#FFDB80" />
+//     <path
+//       d="M31.4989 10.4989H26.2484V15.7495H31.4989V10.4989Z"
+//       fill="#FFC942"
+//     />
+//     <path
+//       d="M36.7495 10.4989H31.4989V15.7495H36.7495V10.4989Z"
+//       fill="#FFC942"
+//     />
+//     <path d="M42 10.4989H36.7495V15.7495H42V10.4989Z" fill="#3D3D3D" />
+//     <path d="M5.25052 15.7495H0V21H5.25052V15.7495Z" fill="#3D3D3D" />
+//     <path d="M10.501 15.7495H5.25052V21H10.501V15.7495Z" fill="#FFC942" />
+//     <path d="M15.7495 15.7495H10.4989V21H15.7495V15.7495Z" fill="#FFDB80" />
+//     <path d="M21 15.7495H15.7495V21H21V15.7495Z" fill="#FFC942" />
+//     <path d="M26.2505 15.7495H21V21H26.2505V15.7495Z" fill="#FFC942" />
+//     <path d="M31.4989 15.7495H26.2484V21H31.4989V15.7495Z" fill="#FFB342" />
+//     <path d="M36.7495 15.7495H31.4989V21H36.7495V15.7495Z" fill="#FFC942" />
+//     <path d="M42 15.7495H36.7495V21H42V15.7495Z" fill="#3D3D3D" />
+//     <path d="M5.25052 21H0V26.2505H5.25052V21Z" fill="#3D3D3D" />
+//     <path d="M10.501 21H5.25052V26.2505H10.501V21Z" fill="#FFC942" />
+//     <path d="M15.7495 21H10.4989V26.2505H15.7495V21Z" fill="#FFDB80" />
+//     <path d="M21 21H15.7495V26.2505H21V21Z" fill="#FFC942" />
+//     <path d="M26.2505 21H21V26.2505H26.2505V21Z" fill="#FFC942" />
+//     <path d="M31.4989 21H26.2484V26.2505H31.4989V21Z" fill="#FFB342" />
+//     <path d="M36.7495 21H31.4989V26.2505H36.7495V21Z" fill="#FFC942" />
+//     <path d="M42 21H36.7495V26.2505H42V21Z" fill="#3D3D3D" />
+//     <path d="M5.25052 26.2484H0V31.4989H5.25052V26.2484Z" fill="#3D3D3D" />
+//     <path d="M10.501 26.2484H5.25052V31.4989H10.501V26.2484Z" fill="#FFC942" />
+//     <path
+//       d="M15.7495 26.2484H10.4989V31.4989H15.7495V26.2484Z"
+//       fill="#FFC942"
+//     />
+//     <path d="M21 26.2484H15.7495V31.4989H21V26.2484Z" fill="#FFC942" />
+//     <path d="M26.2505 26.2484H21V31.4989H26.2505V26.2484Z" fill="#FFB342" />
+//     <path
+//       d="M31.4989 26.2484H26.2484V31.4989H31.4989V26.2484Z"
+//       fill="#FFB342"
+//     />
+//     <path
+//       d="M36.7495 26.2484H31.4989V31.4989H36.7495V26.2484Z"
+//       fill="#FFC942"
+//     />
+//     <path d="M42 26.2484H36.7495V31.4989H42V26.2484Z" fill="#3D3D3D" />
+//     <path d="M10.501 31.4989H5.25052V36.7495H10.501V31.4989Z" fill="#3D3D3D" />
+//     <path
+//       d="M15.7495 31.4989H10.4989V36.7495H15.7495V31.4989Z"
+//       fill="#FFC942"
+//     />
+//     <path d="M21 31.4989H15.7495V36.7495H21V31.4989Z" fill="#FFC942" />
+//     <path d="M26.2505 31.4989H21V36.7495H26.2505V31.4989Z" fill="#FFC942" />
+//     <path
+//       d="M31.4989 31.4989H26.2484V36.7495H31.4989V31.4989Z"
+//       fill="#FFC942"
+//     />
+//     <path
+//       d="M36.7495 31.4989H31.4989V36.7495H36.7495V31.4989Z"
+//       fill="#3D3D3D"
+//     />
+//     <path d="M15.7495 36.7495H10.4989V42H15.7495V36.7495Z" fill="#3D3D3D" />
+//     <path d="M21 36.7495H15.7495V42H21V36.7495Z" fill="#3D3D3D" />
+//     <path d="M26.2505 36.7495H21V42H26.2505V36.7495Z" fill="#3D3D3D" />
+//     <path d="M31.4989 36.7495H26.2484V42H31.4989V36.7495Z" fill="#3D3D3D" />
+//   </svg>
+// )
